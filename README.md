@@ -3,7 +3,7 @@ Project Name
 
 A modern JavaScript web application with a clean, responsive interface.
 
-Show Image Show Image Show Image Show Image
+Show Image Show Image Show Image Show Image.
 
 📌 About
 

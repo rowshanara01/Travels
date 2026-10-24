@@ -56,7 +56,7 @@ npm run build
 
 If your project uses environment variables, create a .env file in the root folder:
 
-env
+.env
 API_URL=your_api_url_here
 📸 Screenshots
 md

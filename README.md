@@ -72,7 +72,7 @@ Push to the branch (git push origin feature/new-feature)
 Open a Pull Request
 📄 License
 
-This project is licensed under the MIT License.
+
 
 👩‍💻 Author
 

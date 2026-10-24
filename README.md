@@ -47,7 +47,7 @@ Start the development server
 bash
    npm start
 
-Then open http://localhost:3000 in your browser.
+.
 
 Build for production
 bash

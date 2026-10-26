@@ -69,7 +69,7 @@ Fork the repository
 Create your branch (git checkout -b feature/new-feature)
 Commit your changes (git commit -m "Add new feature")
 Push to the branch (git push origin feature/new-feature)
-Open a Pull Request
+Open a Pull Request.
 
 
 

@@ -19,7 +19,7 @@ JavaScript (ES6+) – application logic
 Node.js & npm – runtime and package management
 HTML5 – markup
 CSS3 – styling
-📁 Project Structure
+@@ Project Structure
 project-name/
 ├── public/
 │   └── index.html

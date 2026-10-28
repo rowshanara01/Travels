@@ -75,7 +75,7 @@ Open a Pull Request.
 
 
 
-👩‍💻 Author
+## Author ##
 
 Rowshanara Akhter
 

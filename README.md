@@ -9,7 +9,7 @@ Show Image Show Image Show Image Show Image.
 
 Replace this paragraph with a short description of your project: what problem it solves, who it is for, and what makes it useful.
 
-## Features ##
+#### Features ####
 Interactive, dynamic user interface.
 Responsive design for mobile and desktop.
 Modular and easy-to-maintain JavaScript code

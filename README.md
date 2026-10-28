@@ -14,7 +14,7 @@ Interactive, dynamic user interface.
 Responsive design for mobile and desktop.
 Modular and easy-to-maintain JavaScript code
 Simple setup with npm
-🛠️ Tech Stack
+##Tech Stack
 JavaScript (ES6+) – application logic
 Node.js & npm – runtime and package management
 HTML5 – markup

@@ -5,7 +5,7 @@ A modern JavaScript web application with a clean, responsive interface.
 
 Show Image Show Image Show Image Show Image.
 
-📌 About
+## About
 
 Replace this paragraph with a short description of your project: what problem it solves, who it is for, and what makes it useful.
 

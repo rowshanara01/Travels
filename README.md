@@ -61,7 +61,8 @@ API_URL=your_api_url_here
 ## Screenshots  ##
 md
 ![Home Page](screenshots/home.png)
-🤝 Contributing
+
+## Contributing
 
 Contributions, issues and feature requests are welcome.
 
